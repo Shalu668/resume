@@ -1,0 +1,28 @@
+.header>h1 {
+  background-color:#0000FF;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  padding: 18px;
+}
+.section {
+display: -webkit-flex;
+display: flex;
+
+}
+
+.article {
+/*-webkit-flex: 2.5;
+-ms-flex: 2.5;
+flex: 2.5;*/
+background-color: #ccc;
+
+}
+
+.aside {
+/*-webkit-flex: 3;
+-ms-flex: 3;
+flex: 3;*/
+background-color: #808080;
+
+}
